@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munim-akbar)  
 [![GitHub Followers](https://img.shields.io/github/followers/MunimAkbar?label=Follow&style=social)](https://github.com/MunimAkbar)  
-[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:munimakbar27@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:munimakbar113@gmail.com)
 
 </div>
 
